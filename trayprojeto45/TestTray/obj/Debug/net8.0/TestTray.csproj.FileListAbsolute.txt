@@ -1,0 +1,6 @@
+D:\mathe\Downloads\trayprojeto45\TestTray\bin\Debug\net8.0\CoverletSourceRootsMapping_TestTray
+D:\mathe\Downloads\trayprojeto45\TestTray\obj\Debug\net8.0\TestTray.csproj.AssemblyReference.cache
+D:\mathe\Downloads\trayprojeto45\TestTray\obj\Debug\net8.0\TestTray.GeneratedMSBuildEditorConfig.editorconfig
+D:\mathe\Downloads\trayprojeto45\TestTray\obj\Debug\net8.0\TestTray.AssemblyInfoInputs.cache
+D:\mathe\Downloads\trayprojeto45\TestTray\obj\Debug\net8.0\TestTray.AssemblyInfo.cs
+D:\mathe\Downloads\trayprojeto45\TestTray\obj\Debug\net8.0\TestTray.csproj.CoreCompileInputs.cache
