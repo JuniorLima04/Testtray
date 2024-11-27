@@ -1,0 +1,60 @@
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.exe
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.deps.json
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.runtimeconfig.json
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.dll
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.pdb
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/bin/Debug/net8.0/WebDriver.dll
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.csproj.AssemblyReference.cache
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.AssemblyInfoInputs.cache
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.AssemblyInfo.cs
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.csproj.CoreCompileInputs.cache
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteCom.D81BEFFC.Up2Date
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.dll
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/refint/TesteComSelenium.dll
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.pdb
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.genruntimeconfig.cache
+C:/Users/Aula/source/repos2/TesteComSelenium/TesteComSelenium/obj/Debug/net8.0/ref/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.deps.json
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.runtimeconfig.json
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.pdb
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/bin/Debug/net8.0/WebDriver.dll
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.csproj.AssemblyReference.cache
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.AssemblyInfoInputs.cache
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.AssemblyInfo.cs
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.csproj.CoreCompileInputs.cache
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteCom.D81BEFFC.Up2Date
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/refint/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.pdb
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.genruntimeconfig.cache
+/home/junior/Downloads/TesteComSelenium (1)/TesteComSelenium/obj/Debug/net8.0/ref/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.deps.json
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.runtimeconfig.json
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/TesteComSelenium.pdb
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/bin/Debug/net8.0/WebDriver.dll
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.csproj.AssemblyReference.cache
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.GeneratedMSBuildEditorConfig.editorconfig
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.AssemblyInfoInputs.cache
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.AssemblyInfo.cs
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.csproj.CoreCompileInputs.cache
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteCom.D81BEFFC.Up2Date
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/refint/TesteComSelenium.dll
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.pdb
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/TesteComSelenium.genruntimeconfig.cache
+/home/junior/Downloads/TesteComSelenium2/TesteComSelenium/obj/Debug/net8.0/ref/TesteComSelenium.dll
